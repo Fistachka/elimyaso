@@ -1,7 +1,7 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-«Песенка Львёнка и Черепахи»
-![](https://github.com/user-attachments/assets/c3ddf1dc-f926-4c76-9786-ca761bf07e05)
+«Ели мясо мужики» - Король и Шут 1999
+![з2](https://github.com/user-attachments/assets/cd37a933-d41d-448c-9bd8-5b30a6260fcb)
 
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/0wRq0gE8HLQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
@@ -24,8 +24,8 @@
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-"The Song of the Lion Cub and the Turtle" («Pesenka L'vyonka i CHerepahi»)
-![](https://github.com/user-attachments/assets/c3ddf1dc-f926-4c76-9786-ca761bf07e05)
+"The Lads Ate Meat" («Eli myaso muzhiki» - Korol' i SHut 1999)
+![з2](https://github.com/user-attachments/assets/cd37a933-d41d-448c-9bd8-5b30a6260fcb)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/boWzlqUrYJM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U0Q4V2NwZ5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
@@ -45,5 +45,3 @@ I ushami shevelit
 Tol'ko ya vsyo lezhu 
 I na L'vyonka ne glyazhu<br><br>
 
-![з2](https://github.com/user-attachments/assets/cd37a933-d41d-448c-9bd8-5b30a6260fcb)
-![з1](https://github.com/user-attachments/assets/552d0ecd-ca42-4a16-9564-5d49a5ba8ee0)
