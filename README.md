@@ -45,3 +45,5 @@ I ushami shevelit
 Tol'ko ya vsyo lezhu 
 I na L'vyonka ne glyazhu<br><br>
 
+![з2](https://github.com/user-attachments/assets/cd37a933-d41d-448c-9bd8-5b30a6260fcb)
+![з1](https://github.com/user-attachments/assets/552d0ecd-ca42-4a16-9564-5d49a5ba8ee0)
