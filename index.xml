@@ -2,8 +2,8 @@
 <level>
   <owner>Fistachka</owner>
   <repo>elimyaso</repo>
-  <version>v1.0.19</version>
-  <next number="1" owner="stolbitsa" repo="elimyaso2"/>
+  <version>v1.0.20</version>
+  <next number="1" owner="Fistachka" repo="house"/>
   <readme>
     <ru>14263e0c430162a74d90867646c7b3c8a24574892ef34cdd12d97a902f8984d9</ru>
     <en>b30fcd720f488d18c900d4b823ce247d88ed61c608d44ff16d604f40b783157f</en>
@@ -63,7 +63,7 @@
     <video name="4t.mp4" size="1730024" type="video/mp4" volume="0.5">7f0147a4bc764e1d95a2893ffb3880b9db31d4f7682819b90e65124c3cdb047f</video>
     <notes>
       <note number="1" values="7" ticks="93" durationTicks="49" ppq="96" velocity="0.843"/>
-      <note number="2" values="38" ticks="238" durationTicks="123" ppq="96" velocity="0.906"/>
+      <note number="2" values="38" ticks="226" durationTicks="123" ppq="96" velocity="0.906"/>
       <note number="3" values="48" ticks="408" durationTicks="100" ppq="96" velocity="0.827"/>
       <note number="4" values="58" ticks="577" durationTicks="101" ppq="96" velocity="0.906"/>
     </notes>
